@@ -1,0 +1,2 @@
+# gonet
+lib for net
